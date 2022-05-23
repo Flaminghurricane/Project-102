@@ -24,7 +24,7 @@ def take_snapshot():
 take_snapshot()
 
 def upload_file(image_name):
-    access_token=''
+    access_token='sl.BIL6jWBaCKBjfKHWhcr4wki-u-Cz7ZK3I7wNnjT1S9J5OcgW_fH5wJOyv1YIpJ7LiUHx2SeJocR7xpl_MeMLHGBqV15gJHntE9UR2Y6vxiZEfJ__StSS89ZeoGobYf7O8nRAuxY'
     file=image_name
     file_from=file
     file_to="/newFolder102"+(image_name)
